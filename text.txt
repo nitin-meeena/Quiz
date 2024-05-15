@@ -1,0 +1,19 @@
+1. npm
+2. express
+3. javascript
+
+4. what is rest api?How, Why?
+// End Point 
+mydomen/user
+--- get: Give users details
+
+mydomen/user/<userID>
+--- get: Give this particuler user
+
+
+5.
+6.
+7.
+8.
+9.
+10.
